@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1585520881 source:e:\_googledrive_\c\maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1582389411 source:c:\users\user\google Диск\c\maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1585520921 source:d:\onedrive\Программирование\c - c++\maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1667137787 source:d:\_programming\codeblocks\maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
